@@ -13,7 +13,7 @@ Data Source: Sample sales dataset representing Adidas’s sales data
 Languages/Frameworks: SQL for data extraction and transformation
 
 Dashboard Preview
-[DOWNLOAD THE POWER BI DASHBOARD](files/salesdashboard.pbix)
+[DOWNLOAD THE POWER BI DASHBOARD](salesdashboard.pbix)
 
 Dataset
 The dataset includes the following details:
